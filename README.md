@@ -1,4 +1,4 @@
-# second_app
+# Quotes_App
 
 A new Flutter project.
 
